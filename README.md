@@ -1,10 +1,9 @@
 ## Hi 😄. I'm interested in ...
 
 <div> 
-  <h3> 👩‍💻 backend developer.</h3>
+  <p>😄 I'm interested in 👩‍💻 <b>backend developer</b>.</p> 
+  <p>🌱 I’m currently learning <b>jenkins</b> for CI/CD.</p>
 </div>
-
-🌱 I’m currently learning <b>jenkins</b> for CI/CD.
 
 
 <!--
