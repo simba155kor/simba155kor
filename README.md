@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ## I've used ##
 <div align="left">
   <img src="https://img.shields.io/badge/express.js-404D59?style=flat&logo=express&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/docker-0DB7ED?style=flat&logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>&nbsp 
 </div>
 
