@@ -1,6 +1,10 @@
 ## Hi 😀. I'm interested in ...
 
-<div> <h4>backend developer.</h4> </div>
+<div> 
+  <h4>backend developer.</h4>
+  <h4>understand frontend.</h4>
+
+</div>
 
 
 <!--
