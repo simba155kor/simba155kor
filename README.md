@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155)" />
+
+[![Solved.ac
+프로필](](https://solved.ac/{handle})
