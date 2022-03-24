@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/simba155kor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simba155kor&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor" />
 </a>
+
+
 <a href="https://github.com/simba155kor/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simba155kor&repo=convoychat" />
 </a>
