@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/simba155kor/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=simba155kor&count_private=true&theme=solarized-light" style="float:left;width:200px; height:200px"/>
-</a>
-
-<a href="https://github.com/simba155kor/github-stats">
+|<a href="https://github.com/simba155kor/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=simba155kor&count_private=true&theme=solarized-light"/>
+</a> | <a href="https://github.com/simba155kor/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&layout=compact" style="float:left"/>
-</a>
+</a> |
