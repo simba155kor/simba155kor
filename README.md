@@ -4,6 +4,8 @@
   <h3> 👩‍💻 backend developer.</h3>
 </div>
 
+🌱 I’m currently learning jenkins for CI/CD.
+
 
 <!--
 **simba155kor/simba155kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
