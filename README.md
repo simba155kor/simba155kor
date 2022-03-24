@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-
-![simba155kor's Github stats](https://github-readme-stats.vercel.app/api?username=simba155kor&show_icons=true)
-
-[![simba155kor's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/simba155kor)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simba155kor&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simba155kor&repo=convoychat" />
+</a>
