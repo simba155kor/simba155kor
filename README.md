@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/simba155kor/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=simba155kor&count_private=true&theme=solarized-light" />
 </a>
 
-
-
+<a href="https://github.com/simba155kor/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&layout=compact" />
+</a>
