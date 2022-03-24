@@ -2,7 +2,7 @@
 
 <div> 
   <p> Hello. I'm Jeong Hyun Lee.</p>
-  - 👩‍💻 I'm interested in <b>backend developer</b>.</p> 
+  -- 👩‍💻 I'm interested in <b>backend developer</b>.</p> 
   - 🌱 I’m currently learning <b>Jenkins</b> for CI/CD.</p>
 </div>
 
