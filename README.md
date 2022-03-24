@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/simba155">
 </div>
 
-<div aligh="right">
+<div align="right">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155" /> </a>
 </div>
 
