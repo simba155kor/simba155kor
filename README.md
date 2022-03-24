@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🔭 SSAFY 6th 
 
 
-<p align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -29,9 +29,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <a href="https://solved.ac/simba155">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155" /> </a>
-</p>
+</div>
 
+<div aligh="right">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155" /> </a>
+</div>
 
 | <a href="https://github.com/simba155kor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simba155kor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="simba155kor's github stats" /></a>| <a href="https://github.com/simba155kor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
