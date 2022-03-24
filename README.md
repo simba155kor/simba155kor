@@ -2,7 +2,7 @@
 
 <div> 
   <p>😄 I'm interested in 👩‍💻 <b>backend developer</b>.</p> 
-  <p>🌱 I’m currently learning <b>jenkins</b> for CI/CD.</p>
+  <p>🌱 I’m currently learning <b>Jenkins</b> for CI/CD.</p>
 </div>
 
 
