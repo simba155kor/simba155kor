@@ -1,6 +1,6 @@
-## Hi 😀
+## Hi 😀. I'm interested in ...
 
-<div> I'm interested in ... <h4>backend developer.</h4> </div>
+<div> <h4>backend developer.</h4> </div>
 
 
 <!--
