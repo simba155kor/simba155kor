@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=simba155kor&show_icons=true)
+![Github statssss](https://github-readme-stats.vercel.app/api?username=simba155kor&show_icons=true)
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/simba155kor)
