@@ -4,7 +4,7 @@
   <h3> 👩‍💻 backend developer.</h3>
 </div>
 
-🌱 I’m currently learning jenkins for CI/CD.
+🌱 I’m currently learning <b>jenkins</b> for CI/CD.
 
 
 <!--
