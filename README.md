@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Technology Stack ##
+## Tech Stack ##
 
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>&nbsp
@@ -35,14 +35,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/express.js-404D59?style=flat&logo=express&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat&logo=MySql&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>&nbsp 
   <a href="https://solved.ac/simba155">
 </div>
 
-
+## I've used ##
+<div align="left">
+  <img src="https://img.shields.io/badge/express.js-404D59?style=flat&logo=express&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>&nbsp 
+</div>
 
 ## GitHub Activities ##
 
