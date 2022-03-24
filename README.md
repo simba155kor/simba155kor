@@ -2,9 +2,9 @@
 
 <div> 
   <h3>backend developer.</h3>
-  <p>So, WISH  </p>
-  <h3>not only good at backend.</h3>
-  <p>  </p>
+  <p> I did project as backend using Spring Boot and Express. </p>
+  <h3>other technology</h3>
+  <p> I did project as frontend using Vue 3. </p>
 
 </div>
 
