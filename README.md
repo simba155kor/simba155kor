@@ -1,4 +1,4 @@
-## Hi .
+## Hi. I am..
 
 <div> 
   <p>😄 I'm interested in 👩‍💻 <b>backend developer</b>.</p> 
