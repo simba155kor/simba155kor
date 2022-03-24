@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 |  |  |
 |-----|----|
 
+| <a href="https://github.com/simba155kor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simba155kor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="simba155kor's github stats" /></a> | <a href="https://github.com/simba155kor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 | <a href="https://github.com/simba155kor/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=simba155kor&count_private=true&theme=solarized-light"/>
 </a> | <a href="https://github.com/simba155kor/github-stats">
