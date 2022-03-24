@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155" /> </a>
 </div>
 
+## GitHub Activities ##
+
 | <a href="https://github.com/simba155kor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simba155kor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="simba155kor's github stats" /></a>| <a href="https://github.com/simba155kor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba155kor&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
