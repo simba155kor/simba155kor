@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
+<a href="https://solved.ac/simba155">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155)" /> </a>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=simba155)" />
-
-[![Solved.ac
-프로필](](https://solved.ac/{handle})
