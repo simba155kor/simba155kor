@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express.js-404D59?style=flat&logo=express&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/docker-0DB7ED?style=flat&logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=flat&logo=react&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jenkins-833A64?style=flat&logo=jenkins&logoColor=white"/>&nbsp 
 </div>
 
