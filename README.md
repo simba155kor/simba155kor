@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat&logo=MySql&logoColor=white"/>&nbsp 
-  <a href="https://solved.ac/simba155">
 </div>
 
 ## I've used ##
