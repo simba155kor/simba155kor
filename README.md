@@ -3,7 +3,7 @@
 <div> 
   <p> Hello. I'm Jeong Hyun Lee.</p>
   <p> 👩‍💻 I'm interested in <b>backend developer</b>.</p> 
-  <p> 🌱 I’m currently learning <b>Jenkins</b> for CI/CD.</p>
+  <p> 🌱 I’m currently learning kubernetes.</p>
 </div>
 
 
